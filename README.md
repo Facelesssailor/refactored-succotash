@@ -4,7 +4,7 @@ library for all projects created by me
 
 
 <details>
-  <summary>Click to view</summary>
+  <summary><sub>Click to view</summary>
   <sub>[Chat GPT was used for creating a basic template in some of the projects]</sub>
 </details>
 
